@@ -1,0 +1,16 @@
+1,NormalItem,Strawberries,15,6
+2,NormalItem,Cheerios,10,5
+3,NormalItem,Ribeye,25,10
+4,NormalItem,Donuts,8,5
+5,NormalItem,Bananas,13,6
+6,NormalItem,Laundry Detergent,10,3
+7,NormalItem,Peanut Butter,16,4
+8,NormalItem,Milk,9,3
+9,NormalItem,Frozen Dinner,5,3
+10,NormalItem,Oreos,11,4
+11,PowerUp,Budget Boost,0,0
+12,PowerUp,Point Surge,0,0
+13,PowerUp,Refund Request,0,0
+14,Debuff,Monetary Drain,0,0
+15,Debuff,Item Vanish,0,0
+16,Debuff,Movement Ban,0,0

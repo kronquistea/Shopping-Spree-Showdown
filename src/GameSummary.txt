@@ -1,0 +1,90 @@
+**************************
+TOTAL GAME TURNS: 23
+Type:             COMPUTER
+Points:                 20
+Money Left:             30
+Current Cell:        (4,2)
+Debuffs Gained:          0
+Normal Items Gained:
+    Normal
+    Normal
+Special Items Gained:
+**************************
+**************************
+TOTAL GAME TURNS: 23
+Type:             COMPUTER
+Points:                 60
+Money Left:             55
+Current Cell:        (1,4)
+Debuffs Gained:          2
+Normal Items Gained:
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+Special Items Gained:
+    Turn 1 - Power Up
+    Turn 2 - Power Up
+    Turn 3 - Power Up
+    Turn 3 - Power Up
+    Turn 4 - Power Up
+    Turn 4 - Power Up
+    Turn 6 - Power Up
+    Turn 7 - Power Up
+    Turn 14 - Power Up
+    Turn 14 - Power Up
+    Turn 23 - Debuff
+    Turn 23 - Debuff
+**************************
+**************************
+TOTAL GAME TURNS: 23
+Type:             COMPUTER
+Points:                110
+Money Left:             45
+Current Cell:        (3,0)
+Debuffs Gained:          0
+Normal Items Gained:
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+Special Items Gained:
+    Turn 2 - Power Up
+    Turn 7 - Power Up
+    Turn 8 - Power Up
+**************************
+**************************
+TOTAL GAME TURNS: 23
+Type:             COMPUTER
+Points:                110
+Money Left:             55
+Current Cell:        (1,2)
+Debuffs Gained:          0
+Normal Items Gained:
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+    Normal
+Special Items Gained:
+    Turn 1 - Power Up
+    Turn 2 - Power Up
+    Turn 7 - Power Up
+    Turn 13 - Power Up
+    Turn 17 - Power Up
+**************************

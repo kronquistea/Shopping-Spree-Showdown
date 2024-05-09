@@ -1,0 +1,16 @@
+1,NormalItem,Tortilla Chips,15,8
+2,NormalItem,One Avocado,10,7
+3,NormalItem,Two Avocados,20,14
+4,NormalItem,Chicken Thighs,14,7
+5,NormalItem,Lettuce,5,3
+6,NormalItem,Black Beans,12,5
+7,NormalItem,Jalapenos,10,6
+8,NormalItem,Queso Oaxaca,11,7
+9,NormalItem,Nacho Cheese,5,3
+10,NormalItem,Sour Cream,11,6
+11,PowerUp,Budget Boost,0,0
+12,PowerUp,Point Surge,0,0
+13,PowerUp,Refund Request,0,0
+14,Debuff,Monetary Drain,0,0
+15,Debuff,Item Vanish,0,0
+16,Debuff,Movement Ban,0,0

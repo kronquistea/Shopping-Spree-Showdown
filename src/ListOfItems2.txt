@@ -1,0 +1,16 @@
+1,NormalItem,Hardshell Luggage Set,22,14
+2,NormalItem,Artificial Olive Plants,7,5
+3,NormalItem,Horseradish,4,3
+4,NormalItem,Wide Leg Pants,13,8
+5,NormalItem,Hammock,17,10
+6,NormalItem,Air Pump,10,4
+7,NormalItem,Car Seat,16,8
+8,NormalItem,Watermelon Candle,9,4
+9,NormalItem,Chips Ahoy!,6,3
+10,NormalItem,Rotisserie Chicken,11,5
+11,PowerUp,Budget Boost,0,0
+12,PowerUp,Point Surge,0,0
+13,PowerUp,Refund Request,0,0
+14,Debuff,Monetary Drain,0,0
+15,Debuff,Item Vanish,0,0
+16,Debuff,Movement Ban,0,0
